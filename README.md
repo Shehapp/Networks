@@ -9,3 +9,4 @@
 <input type="checkbox" id="task-4"> <label for="task-4">Why IP Address ? Subnet</label><br>
 <input type="checkbox" id="task-5"> <label for="task-5">ICMP, TTI, Ping and Trancert  </label><br>
 <input type="checkbox" id="task-6"> <label for="task-6">ARB and ARB Poisning  </label><br>
+<input type="checkbox" id="task-7"> <label for="task-7">How IP Packets are routed in Switches and Routers <label><br>
