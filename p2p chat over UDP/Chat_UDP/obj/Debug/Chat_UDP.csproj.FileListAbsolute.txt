@@ -20,3 +20,14 @@ J:\college\networks\Networks\Concurrency_Chat_UDP\Chat_UDP\obj\Debug\Chat_UDP.cs
 J:\college\networks\Networks\Concurrency_Chat_UDP\Chat_UDP\obj\Debug\Chat_UDP.csproj.CoreCompileInputs.cache
 J:\college\networks\Networks\Concurrency_Chat_UDP\Chat_UDP\obj\Debug\Chat_UDP.exe
 J:\college\networks\Networks\Concurrency_Chat_UDP\Chat_UDP\obj\Debug\Chat_UDP.pdb
+J:\college\networks\Networks\p2p chat over UDP\Chat_UDP\bin\Debug\Chat_UDP.exe.config
+J:\college\networks\Networks\p2p chat over UDP\Chat_UDP\bin\Debug\Chat_UDP.exe
+J:\college\networks\Networks\p2p chat over UDP\Chat_UDP\bin\Debug\Chat_UDP.pdb
+J:\college\networks\Networks\p2p chat over UDP\Chat_UDP\obj\Debug\Chat_UDP.csproj.AssemblyReference.cache
+J:\college\networks\Networks\p2p chat over UDP\Chat_UDP\obj\Debug\Chat_UDP.csproj.SuggestedBindingRedirects.cache
+J:\college\networks\Networks\p2p chat over UDP\Chat_UDP\obj\Debug\Chat_UDP.Form1.resources
+J:\college\networks\Networks\p2p chat over UDP\Chat_UDP\obj\Debug\Chat_UDP.Form2.resources
+J:\college\networks\Networks\p2p chat over UDP\Chat_UDP\obj\Debug\Chat_UDP.csproj.GenerateResource.cache
+J:\college\networks\Networks\p2p chat over UDP\Chat_UDP\obj\Debug\Chat_UDP.csproj.CoreCompileInputs.cache
+J:\college\networks\Networks\p2p chat over UDP\Chat_UDP\obj\Debug\Chat_UDP.exe
+J:\college\networks\Networks\p2p chat over UDP\Chat_UDP\obj\Debug\Chat_UDP.pdb

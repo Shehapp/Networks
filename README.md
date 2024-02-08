@@ -1,12 +1,24 @@
 
 
 # Fundamentals of Network Engineering For Backend Engineers
-[This course instructed by Hussin Nasser](https://www.udemy.com/course/fundamentals-of-networking-for-effective-backend-design/)
 
-<input type="checkbox" id="task-1" checked> <label for="task-1">Client Server Arch</label><br>
-<input type="checkbox" id="task-2"> <label for="task-2">OSI Model</label><br>
-<input type="checkbox" id="task-3"> <label for="task-3">Proxies, VPN and Load balancer</label><br>
-<input type="checkbox" id="task-4"> <label for="task-4">Why IP Address ? Subnet</label><br>
-<input type="checkbox" id="task-5"> <label for="task-5">ICMP, TTI, Ping and Trancert  </label><br>
-<input type="checkbox" id="task-6"> <label for="task-6">ARB and ARB Poisning  </label><br>
-<input type="checkbox" id="task-7"> <label for="task-7">How IP Packets are routed in Switches and Routers <label><br>
+
+### Topics
+* Client Server Arch..  
+* OSI Model.   
+* Proxies, VPN and Load balancer.  
+* Why IP Address ? Subnet.  
+* ICMP, TCP blackhole, TTL, Ping and Trancert.   
+* ARB and ARB Poisning.  
+* How IP Packets are routed in Switches and Routers.  
+* UDP, DNS, DNS Flooding.  
+* SSL, Symmetric and ASymmetric key.  
+* TCP, Session(Layer 5), 3 handshake, MTU, MSS and Window size.  
+* Flow Control, Congestion Control(Slow Start, Congestion Avoidance).  
+* NAT, Private to Public translations, Port forwarding, Layer 4 Load Balancing.  
+
+###  References
+* [ _Fundamentals of Network Engineering For Backend Engineers_ ](https://www.udemy.com/course/fundamentals-of-networking-for-effective-backend-design/)
+* [ _What's TCP?_ ](https://www.youtube.com/watch?v=rmFX1V49K8U)
+* [ _MTU and MSS_](https://www.youtube.com/watch?v=J-gnDC6B5eE)
+
