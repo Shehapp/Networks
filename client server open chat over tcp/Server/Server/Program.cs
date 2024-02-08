@@ -81,7 +81,7 @@ namespace Server
 
                 if (message.Length>0 && message[0] == 'M')
                 {
-                    message = $"({my_port}) "+message.Substring(2)+"\n";
+                    message = $"({my_port}_"+message.Substring(2)+"\n";
 
                     semaphore_message_queue.Wait();
                     _queue_messages.Enqueue(message);
@@ -97,6 +97,7 @@ namespace Server
                 semaphore_online_clients.Signal();
                 
                 Console.WriteLine("Client({0}) disconnected", client.Client.RemoteEndPoint);
+                stream.Close();
                 client.Close();
                 return;
 
@@ -128,8 +129,7 @@ namespace Server
                             continue;
                         }
 
-                        NetworkStream stream = client.GetStream();
-                        stream.Write(responseData, 0, responseData.Length);
+                        client.GetStream().Write(responseData, 0, responseData.Length);
                     }
                     catch (Exception ok_computer)
                     {

@@ -1,0 +1,10 @@
+J:\college\networks\Networks\client server open chat over tcp\Client\Client\bin\Debug\Client.exe.config
+J:\college\networks\Networks\client server open chat over tcp\Client\Client\bin\Debug\Client.exe
+J:\college\networks\Networks\client server open chat over tcp\Client\Client\bin\Debug\Client.pdb
+J:\college\networks\Networks\client server open chat over tcp\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+J:\college\networks\Networks\client server open chat over tcp\Client\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+J:\college\networks\Networks\client server open chat over tcp\Client\Client\obj\Debug\Client.Chat.resources
+J:\college\networks\Networks\client server open chat over tcp\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+J:\college\networks\Networks\client server open chat over tcp\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+J:\college\networks\Networks\client server open chat over tcp\Client\Client\obj\Debug\Client.exe
+J:\college\networks\Networks\client server open chat over tcp\Client\Client\obj\Debug\Client.pdb
