@@ -1,4 +1,4 @@
-# UDP Chat Application
+# TCP Chat Application
 ![](img/Ko.png)
 
 - The application utilizes TCP connection for communication.
