@@ -16,3 +16,9 @@ C:\Users\sheha\Desktop\HTTP-Server-master\HTTP-Server-master\obj\x86\Debug\HTTPS
 C:\Users\sheha\Desktop\HTTP-Server-master\HTTP-Server-master\obj\x86\Debug\HTTPServer.csproj.CoreCompileInputs.cache
 C:\Users\sheha\Desktop\HTTP-Server-master\HTTP-Server-master\obj\x86\Debug\HTTPServer.exe
 C:\Users\sheha\Desktop\HTTP-Server-master\HTTP-Server-master\obj\x86\Debug\HTTPServer.pdb
+J:\college\networks\Networks\HTTP-Server\bin\Debug\HTTPServer.exe
+J:\college\networks\Networks\HTTP-Server\bin\Debug\HTTPServer.pdb
+J:\college\networks\Networks\HTTP-Server\obj\x86\Debug\HTTPServer.csproj.AssemblyReference.cache
+J:\college\networks\Networks\HTTP-Server\obj\x86\Debug\HTTPServer.csproj.CoreCompileInputs.cache
+J:\college\networks\Networks\HTTP-Server\obj\x86\Debug\HTTPServer.exe
+J:\college\networks\Networks\HTTP-Server\obj\x86\Debug\HTTPServer.pdb

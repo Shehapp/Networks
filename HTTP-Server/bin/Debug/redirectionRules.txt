@@ -1,1 +1,2 @@
 aboutus.html,aboutus2.html
+index.html,aboutus.html

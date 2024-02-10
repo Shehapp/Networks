@@ -1,0 +1,7 @@
+J:\college\networks\Networks\client server open chat over tcp\try_hellman\try_hellman\bin\Debug\try_hellman.exe
+J:\college\networks\Networks\client server open chat over tcp\try_hellman\try_hellman\bin\Debug\try_hellman.pdb
+J:\college\networks\Networks\client server open chat over tcp\try_hellman\try_hellman\obj\Debug\try_hellman.csproj.AssemblyReference.cache
+J:\college\networks\Networks\client server open chat over tcp\try_hellman\try_hellman\obj\Debug\try_hellman.csproj.SuggestedBindingRedirects.cache
+J:\college\networks\Networks\client server open chat over tcp\try_hellman\try_hellman\obj\Debug\try_hellman.csproj.CoreCompileInputs.cache
+J:\college\networks\Networks\client server open chat over tcp\try_hellman\try_hellman\obj\Debug\try_hellman.exe
+J:\college\networks\Networks\client server open chat over tcp\try_hellman\try_hellman\obj\Debug\try_hellman.pdb
