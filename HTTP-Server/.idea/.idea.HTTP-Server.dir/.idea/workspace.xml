@@ -7,22 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a943e07-e0ec-4b83-85bd-92f5246f4734" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.HTTP-Server.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HTTP-Server.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Configuration.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Configuration.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTTPServer.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/HTTPServer.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logger.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Logger.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Request.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Request.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Response.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Response.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Server.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Server.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/HTTPServer.exe" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/HTTPServer.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/HTTPServer.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/HTTPServer.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/redirectionRules.txt" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/redirectionRules.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/x86/Debug/HTTPServer.exe" beforeDir="false" afterPath="$PROJECT_DIR$/obj/x86/Debug/HTTPServer.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/x86/Debug/HTTPServer.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/x86/Debug/HTTPServer.pdb" afterDir="false" />
-    </list>
+    <list default="true" id="5a943e07-e0ec-4b83-85bd-92f5246f4734" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +38,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "2-add-tls-12-to-http-server",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
