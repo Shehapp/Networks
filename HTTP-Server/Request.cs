@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+
 
 namespace HTTPServer
 {
@@ -31,7 +30,7 @@ namespace HTTPServer
             get { return headerLines; }
         }
 
-        HTTPVersion httpVersion;
+        public HTTPVersion httpVersion;
         string requestString;
         string[] contentLines;
 
@@ -88,11 +87,6 @@ namespace HTTPServer
 
             // Validate Method
             method = (RequestMethod)Enum.Parse(typeof(RequestMethod), requestlineparts[0]);
-            if (method == null)
-            {
-                return false;
-            }
-
 
             // Validate URI
             if (!ValidateIsURI(requestlineparts[1]))
@@ -100,8 +94,7 @@ namespace HTTPServer
                 return false;
             }
 
-            relativeURI = requestlineparts[1];
-
+            relativeURI = requestlineparts[1].Substring(1);
 
             // Validate HTTP Version
             string httpversion = requestlineparts[2]
@@ -109,10 +102,6 @@ namespace HTTPServer
                 .Replace("/", "");
 
             httpVersion = (HTTPVersion)Enum.Parse(typeof(HTTPVersion), httpversion);
-            if (httpVersion == null)
-            {
-                return false;
-            }
 
             return true;
         }

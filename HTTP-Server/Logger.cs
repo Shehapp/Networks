@@ -9,12 +9,15 @@ namespace HTTPServer
     class Logger
     {
         static StreamWriter sr = new StreamWriter("log.txt");
+
         public static void LogException(Exception ex)
         {
             // TODO: Create log file named log.txt to log exception details in it
-            //Datetime:
-            //message:
-            // for each exception write its details associated with datetime 
+            sr.WriteLine("DateTime: " + DateTime.Now);
+            sr.WriteLine("Message: " + ex.Message);
+            sr.WriteLine("Stack Trace: " + ex.StackTrace);
+            sr.WriteLine("-------------------------------------------------");
+            sr.Flush();
         }
     }
 }

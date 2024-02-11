@@ -29,13 +29,11 @@ namespace HTTPServer
         static void CreateRedirectionRulesFile()
         {
             // TODO[1]: Create file named redirectionRules.txt
-            // each line in the file specify a redirection rule
-            // example: "aboutus.html,aboutus2.html"
-
             FileStream fs = new FileStream(redirectionMatrixPath, FileMode.Create);
             StreamWriter sw = new StreamWriter(fs);
             sw.WriteLine("aboutus.html,aboutus2.html");
-            sw.WriteLine("index.html,aboutus.html");
+            sw.WriteLine("aboutus1.html,aboutus2.html");
+            sw.WriteLine("home.html,main.html");
             sw.Close();
             fs.Close();
         }

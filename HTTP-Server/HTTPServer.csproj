@@ -53,7 +53,12 @@
     <Compile Include="Server.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="static_html\" />
+    <Content Include="static_html\aboutus2.html" />
+    <Content Include="static_html\BadRequest.html" />
+    <Content Include="static_html\InternalError.html" />
+    <Content Include="static_html\main.html" />
+    <Content Include="static_html\NotFound.html" />
+    <Content Include="static_html\Redirect.html" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
