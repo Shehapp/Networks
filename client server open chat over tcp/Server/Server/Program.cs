@@ -54,8 +54,9 @@ namespace Server
             {
                 TcpClient client = listener.AcceptTcpClient();
                 Console.WriteLine("Client({0}) connected",client.Client.RemoteEndPoint);
-
+                semaphore_online_clients.Wait();
                 online_clients.Add(client);
+                semaphore_online_clients.Signal();
                 new Thread(ServeClient).Start(client);
             }
         }
@@ -110,6 +111,7 @@ namespace Server
             while (true)
             {
                 semaphore_aval_messages.Wait();
+                
                 semaphore_message_queue.Wait();
                 String current_message = (String)_queue_messages.Dequeue();
                 semaphore_message_queue.Signal();
